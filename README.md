@@ -1,4 +1,4 @@
-# relative_clause_detection
+# AlphaRelativeClauseDetector
 
 This is the repo for the tool that automatically detects and extracts relative clauses in English.
 
