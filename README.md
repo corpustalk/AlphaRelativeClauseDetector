@@ -10,7 +10,7 @@ We provide two types of tools for relative clause detection.
 
 1. Python codes. If you are familiar and comfortable with Python coding, you could find the Python codes in the repo.
 
-2. Our app: Relative Clause Detector. If you like a User Interface (UI) based app, please download our app in the Releases section of this repo. We provide our app for both MS Windows and Mac OS users. 
+2. Our app: Alpha Relative Clause Detector. If you like a User Interface (UI) based app, please download our app in the Releases section of this repo. We provide our app for both MS Windows and Mac OS users. 
 
 ***
 
