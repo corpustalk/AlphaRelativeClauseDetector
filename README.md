@@ -1,14 +1,14 @@
 # AlphaRelativeClauseDetector
 
-This is the repo for the tool that automatically detects and extracts relative clauses in English.
+This is the repo for our newly developed tool that automatically detects and extracts relative clauses in English.
 
 See the article below for a detailed description of the tool. 
 
 ***
 
-We provide two types of tools for relative clause detection. 
+We provide two versions of the tool for relative clause detection. 
 
-1. Python codes. If you are familiar and comfortable with Python coding, you could find the Python codes in the repo.
+1. Our Python codes. If you are familiar and comfortable with Python coding, you could find the Python codes in the repo.
 
 2. Our app: Alpha Relative Clause Detector. If you like a User Interface (UI) based app, please download our app in the Releases section of this repo. We provide our app for both MS Windows and Mac OS users. 
 
